@@ -61,3 +61,6 @@ The application analyzes various user metrics such as:
 - Weekend Ratio
 
 These features are combined to determine the user's cluster and calculate their overall addiction risk score.
+
+---
+Developed by **vangavaishnavi-2005**.
